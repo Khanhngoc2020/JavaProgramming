@@ -8,7 +8,7 @@ public class ReadFile {
     public static void main(String[] args)  {
         FileReader file;
         try {
-            file = new FileReader("N:\\Khanh Ngoc\\Java programming\\Text File Java\\ReadFile.txt");
+            file = new FileReader("N:\\Khanh Ngoc\\Java programming\\Text File Java\\ReadFile.txt ");
 
         int data = file.read();
 
