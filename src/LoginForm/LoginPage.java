@@ -1,6 +1,4 @@
-package Try;
-
-import Frame.HASHandTree;
+package LoginForm;
 
 import javax.swing.*;
 import java.awt.*;

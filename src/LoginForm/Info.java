@@ -1,7 +1,6 @@
-package Try;
+package LoginForm;
 
 import java.util.HashMap;
-import java.util.TreeMap;
 
 public class Info {
     HashMap<String, String> users = new HashMap<>();
